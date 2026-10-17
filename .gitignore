@@ -1,0 +1,6 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+logs/
+models/*.zip
+results/episode_log.csv

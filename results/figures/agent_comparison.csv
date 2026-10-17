@@ -1,0 +1,4 @@
+agent,episodes,mean_reward,std_reward,best_reward,worst_reward
+ppo,300,64.0838,123.0589057233137,237.6,-146.37
+random,5,-216.93,100.71809246605102,-104.75,-351.9
+random_eval,300,-181.959,109.2901447652503,47.02,-498.51
